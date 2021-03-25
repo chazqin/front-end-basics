@@ -7,7 +7,7 @@
 * 绑定事件的方法
 
 ### 学习资料
-[Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css-js) - 适合基础薄弱，喜欢看视频学习的同学
+[Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css-js) - 视频学习资料
 [Eloquent Javascript Ch. 14](https://eloquentjavascript.net/14_dom.html) - 英语文字资料，全面概括DOM
 [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) - MDN DOM教程，可选中文
 
@@ -24,6 +24,7 @@
 
 ### 学习资料
 [Frontend Masters](https://frontendmasters.com/courses/web-development-v2/introducing-css/) - 视频课程，只需要看Learning CSS这一部分
+
 [张鑫旭 Flex教程](https://www.zhangxinxu.com/wordpress/2018/10/display-flex-css3-css/) - 中文资料，全面讲解Flex布局
 
 ### 作业
