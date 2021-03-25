@@ -58,7 +58,7 @@
 * routing
 
 ### 学习资料
-[Nextjs](https://nextjs.org/docs/getting-started) - Next官方文档
+[Nextjs](https://nextjs.org/docs/getting-started) - Next官方文档，看完Basic Features, Routing两部分内容
 
 ### 作业
 [博客小程序](https://nextjs.org/learn/basics/create-nextjs-app?utm_source=next-site&utm_medium=nav-cta&utm_campaign=next-website) - 跟随Next官网提供的步骤完成最终程序
