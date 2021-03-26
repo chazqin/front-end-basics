@@ -36,7 +36,7 @@
 
 #### 学习资料
 [图解HTTP](https://kingyinliang.github.io/PDF/图解HTTP+彩色版.pdf) - 中文文字资料，看前六章内容即可  
-[阮一峰](https://es6.ruanyifeng.com/#docs/promise) - 中文文本，看第16章：Promise对象
+[阮一峰](https://es6.ruanyifeng.com/#docs/promise) - 中文文本，看第16章：Promise对象  
 [MDN-AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX) - MDN文本资料，可选中文
 
 #### 作业
