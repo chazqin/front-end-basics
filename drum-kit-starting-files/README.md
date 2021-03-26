@@ -12,5 +12,5 @@
 1. 下载初始文件夹: drum-kit-starting-files。
 2. 将index.js文件与index.html相连。
 3. 初始文件夹中已经包含html与css了，不需要同学们做任何改动。只需要在index.js文件里完成代码，实现小游戏的功能。(想要格外练习html和css的同学可以自己从头开始写html与css)
-4. 浏览器播放音频文件提示： Web API: Audio() 
+4. 提示：如何用浏览器播放音频文件
    [MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio)
