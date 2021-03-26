@@ -50,7 +50,7 @@
 [overreacted](https://overreacted.io/zh-hans/a-complete-guide-to-useeffect) - useEffect hook 文本资料，可选中文
 
 #### 作业
-[计时器程序](timers)
+[任务清单小程序](to-do-list)
 ## 5. NextJS   
 
 * pages
