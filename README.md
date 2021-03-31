@@ -12,7 +12,7 @@
 [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) - MDN DOM教程，可选中文
 
 #### 作业
-[架子鼓小游戏](drum-kit-starting-files)
+[架子鼓小游戏](drum-kit)
 ## 2. CSS
 
 * 盒子模型
